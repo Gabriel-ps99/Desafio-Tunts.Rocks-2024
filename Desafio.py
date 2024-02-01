@@ -1,6 +1,7 @@
 import os
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+import time  # Importe a biblioteca time
 
 # Configurações de autenticação
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
@@ -71,6 +72,9 @@ for row_index, row in enumerate(all_values[3:], start=4):
             worksheet.update_cell(row_index, 8, "0.00")
         else:
             worksheet.update_cell(row_index, 8, f"{10 - media / 10:.2f}")  # Atualiza a coluna de Nota Final
+    
+    # Adicione um pequeno atraso (1 segundo) entre as atualizações
+        time.sleep(1)
     else:
         print(f"Ignorando cabeçalho ou erro na linha {row_index}: Alguma das colunas de notas ou faltas está vazia ou não é numérica.")
 
