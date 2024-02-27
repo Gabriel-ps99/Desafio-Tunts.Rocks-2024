@@ -1,5 +1,6 @@
 
 # Desafio Tunts.Rocks 2024
+![Exemplo GIF](fillsheetsdemogif.gif)
 
 ## Descrição
 Este é um projeto para o Desafio Tunts.Rocks 2024.
@@ -31,4 +32,3 @@ Dentro da pasta Desafio-Tunts.Rocks-2024 e com o ambiente virtual ativado, execu
 python Desafio.py
 
 
-![Exemplo GIF](fillsheetsdemogif.gif)
