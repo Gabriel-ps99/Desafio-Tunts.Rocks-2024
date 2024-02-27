@@ -29,3 +29,6 @@ Dentro da pasta Desafio-Tunts.Rocks-2024 e com o ambiente virtual ativado, execu
 
 ```bash
 python Desafio.py
+
+
+![Exemplo GIF](fillsheetsdemogif.gif)
