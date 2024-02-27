@@ -1,6 +1,5 @@
 
 # Desafio Tunts.Rocks 2024
-![fillsheetsdemogif](fillsheetsdemogif.gif)
 
 ## Descrição
 Este é um projeto para o Desafio Tunts.Rocks 2024.
@@ -30,8 +29,6 @@ Dentro da pasta Desafio-Tunts.Rocks-2024 e com o ambiente virtual ativado, execu
    ```bash
    python Desafio.py
 
-
-![fillsheetsdemogif](https://github.com/Gabriel-ps99/Desafio-Tunts.Rocks-2024/assets/121944069/9201d254-9259-4ba6-8c2c-97129e1a24f5)
-
+![fillsheetsdemo-ezgif com-video-to-gif-converter](https://github.com/Gabriel-ps99/Desafio-Tunts.Rocks-2024/assets/121944069/8010ebad-f492-4107-8165-7255c95af7e1)
 
 
