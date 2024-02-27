@@ -1,6 +1,5 @@
 
 # Desafio Tunts.Rocks 2024
-![fillsheetsdemogif](https://github.com/Gabriel-ps99/Desafio-Tunts.Rocks-2024/assets/121944069/8a0f2082-1beb-4c04-8ab2-7b00c4589b6e)
 
 ## Descrição
 Este é um projeto para o Desafio Tunts.Rocks 2024.
