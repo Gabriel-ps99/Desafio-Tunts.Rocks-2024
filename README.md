@@ -32,3 +32,4 @@ Dentro da pasta Desafio-Tunts.Rocks-2024 e com o ambiente virtual ativado, execu
 python Desafio.py
 
 
+
