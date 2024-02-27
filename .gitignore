@@ -1,7 +1,5 @@
 .gitignore
 venv
 .venv
-/venv
-venv/
 fillsheetsdemogif.gif
 fillsheets(demo).mp4
