@@ -26,8 +26,8 @@ No Windows, use `venv\Scripts\activate` e no linux/MacOS`source venv/bin/activat
 
 4. **Execute o Projeto:**
 Dentro da pasta Desafio-Tunts.Rocks-2024 e com o ambiente virtual ativado, execute o script Desafio.py :
+   ```bash
+   python Desafio.py
 
-```bash
-python Desafio.py
-
+![fillsheetsdemo-ezgif com-video-to-gif-converter](https://github.com/Gabriel-ps99/Desafio-Tunts.Rocks-2024/assets/121944069/8010ebad-f492-4107-8165-7255c95af7e1)
 
