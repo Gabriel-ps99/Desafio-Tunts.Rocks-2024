@@ -1,6 +1,6 @@
 
 # Desafio Tunts.Rocks 2024
-![Exemplo GIF](E:/projetos2/Desafio2/Desafio-Tunts.Rocks-2024/fillsheetsdemogif.gif)
+![Exemplo GIF](fillsheetsdemogif.gif)
 
 ## Descrição
 Este é um projeto para o Desafio Tunts.Rocks 2024.
