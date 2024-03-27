@@ -2,7 +2,10 @@
 # Desafio Tunts.Rocks 2024
 
 ## Descrição
-Este é um projeto para o Desafio Tunts.Rocks 2024. É Necessario ter o python instalado.
+Este é um projeto para o Desafio Tunts.Rocks 2024. 
+
+# Configuração Inicial
+É Necessario ter o python instalado. É necessario ainda, a configuração da conta google (https://console.cloud.google.com/), para ativação da Google Sheets API, Criação de Conta de serviço, criação de Chave, e download de credentials.json. Armazene no diretorio do projeto ou em alguma pasta de sua preferência. Após, realizar a configuração da variavel de ambiente, adicionando o seguinte nome da variavel: CREDENTIALS_PATH e em valor da variavel, adicione o caminho do arquivo credentials.json.
 
 # Instruções de Instalação
 1. **Baixe ou Clone o repositório:**
