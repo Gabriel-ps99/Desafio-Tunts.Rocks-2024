@@ -2,7 +2,7 @@
 # Desafio Tunts.Rocks 2024
 
 ## Descrição
-Este é um projeto para o Desafio Tunts.Rocks 2024.
+Este é um projeto para o Desafio Tunts.Rocks 2024. É Necessario ter o python instalado.
 
 # Instruções de Instalação
 1. **Baixe ou Clone o repositório:**
